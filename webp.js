@@ -27,4 +27,4 @@ fs.readdir(directoryPath, function (err, files) {
   });
 });
 
-console.log("Success");
+console.log("All images successfully converted");

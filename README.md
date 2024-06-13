@@ -8,7 +8,7 @@ png => webp,
 jpeg => webp,
 jpg => webp
 
-#installing packages
+# installing packages
 
 npm install
 

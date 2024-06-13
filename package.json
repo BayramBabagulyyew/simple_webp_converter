@@ -1,0 +1,6 @@
+{
+  "name": "webp_converter",
+  "dependencies": {
+    "webp-converter": "^2.3.3"
+  }
+}
